@@ -2,8 +2,8 @@
 
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-- 👨🏾‍🎓 formado em Comunicação 
-- 📚 Atualmente estudando Python, HTML e CSS
+- 👨🏾‍🎓 Formado em Comunicação/Publicidade 
+- 📚 Atualmente estudando Python, HTML e CSS.
 
 <div align="center">
   <a href="https://github.com/JosuecomJ">
