@@ -2,7 +2,7 @@
 
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-- 👨🏾‍🎓 Formado em Comunicação/Publicidade 
+- 👨🏾‍🎓 Formado em Comunicação/Publicidade. 
 - 📚 Atualmente estudando Python, HTML e CSS.
 
 <div align="center">
