@@ -3,7 +3,7 @@
 
           
 - 👨🏾‍🎓 Formado em Comunicação/Publicidade. 
-- 📚 Atualmente estudando Python, HTML e CSS.
+- 📚 Atualmente estudando Flask.
 
 <div align="center">
   <a href="https://github.com/JosuecomJ">
