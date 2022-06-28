@@ -2,7 +2,7 @@
 
 
           
-- 👨🏾‍🎓 Formado em Comunicação/Publicidade. 
+- 👨🏾‍🎓 Formado em Publicidade. 
 - 📚 Dev Python.
 
 <div align="center">
