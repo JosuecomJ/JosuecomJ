@@ -3,7 +3,7 @@
 
           
 - 👨🏾‍🎓 Formado em Comunicação/Publicidade. 
-- 📚 Atualmente estudando Django.
+- 📚 Dev Python.
 
 <div align="center">
   <a href="https://github.com/JosuecomJ">
