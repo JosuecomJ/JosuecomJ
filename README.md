@@ -1,9 +1,8 @@
 ###  Josué 
 
 
-          
-- 👨🏾‍🎓 Formado em Publicidade. 
-- 📚 Dev Python.
+        
+- 📚Python Dev.
 
 <div align="center">
   <a href="https://github.com/JosuecomJ">
