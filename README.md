@@ -1,8 +1,7 @@
 ###  Josué 
 
 
-        
-- 📚Python Dev.
+   
 
 <div align="center">
   <a href="https://github.com/JosuecomJ">
