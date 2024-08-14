@@ -26,7 +26,7 @@
 <div style="display: inline_block" align="center"><br> 
     <a  href="https://www.instagram.com/josuecomj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a> 
     <a  href = "mailto:josueemcontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a   href="https://www.linkedin.com/in/josu%C3%A9-da-silva-nunes-a3b68761/"  > <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a   href="https://www.linkedin.com/in/dev-josue-nunes/"  > <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
    
 </div>   
